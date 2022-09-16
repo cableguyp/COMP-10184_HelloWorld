@@ -1,3 +1,5 @@
+// I, Caleb Priede, 000803812 certify that this material is my original work.
+// No other person's work has been used without due acknowledgement.
 #include <Arduino.h>
 
 void setup() {
